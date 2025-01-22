@@ -35,7 +35,7 @@ npm install -g truffle
 truffle compile
 truffle migrate
 ```
-6 .Copy contract address as seen in the image below and paste in variable `contractAddress` located in the file `./lib/constant/constant.dart`
+7. Copy contract address as seen in the image below and paste in variable `contractAddress` located in the file `./lib/constant/constant.dart`
 <pre>
 2_deploy_migration.js
 =====================
@@ -54,14 +54,14 @@ truffle migrate
    > value sent:          0 ETH
    > total cost:          0.07992454 ETH
 </pre>
-7. In `constant.dart` file, change the value of the variable `chainId` to `'1337'` and change the value of the variable `rpcUrl` to `"http://127.0.0.1:7545"`
-8. Run the flutter web app
+8. In `constant.dart` file, change the value of the variable `chainId` to `'1337'` and change the value of the variable `rpcUrl` to `"http://127.0.0.1:7545"`
+9. Run the flutter web app
 ```
 flutter pub get
 
 flutter run -d web-server --web-port 5555
 ```
-9. Open the browser and the dapp will be running in http://localhost:5555/
-10. Create mapbox api key from https://www.mapbox.com/ and Replace it with `mapBoxApiKey`in `constant.dart` file
+10. Open the browser and the dapp will be running in http://localhost:5555/
+11. Create mapbox api key from https://www.mapbox.com/ and Replace it with `mapBoxApiKey`in `constant.dart` file
 
 
