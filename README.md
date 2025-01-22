@@ -17,19 +17,6 @@
 5. Flutter
 6. Metamask
 
-## Demo
-Our Dapp is demonstrated in this video [here](https://youtu.be/0Coz_ivOaHs)
-
-## Run Application on deployed website
-Check out the deployed website [here](https://landregistry.live/)
-
-https://landregistry.live/
-
-This is for demonstration purposes only. With this key, you can log in as Land Inspector:
- <pre><b>6b86cddfedbec68ed2a1c7e14b993840a0848595ba5787aec9e8a38b18f0d96a</b></pre>
-For user: <pre><b>3ed4aff1a8ff8e28df3cd307112f9166886edcc85a27136908e3b1687b111f89</b></pre>\
-You can also use your own Ethereum wallet key as a user.
-
 #### Check new Smart contract At Polygon Testnet: [here](https://mumbai.polygonscan.com/address/0xbc6d9e15255533C19f1589A7e9fbB60440a539e0)
 
 #### Check Smart contract At (discontinued) Ropsten Ethereum Testnet: [here](https://ropsten.etherscan.io/address/0x702058ba021cd4e4f847b40f32b58aa5be3a4661)
